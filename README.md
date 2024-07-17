@@ -67,7 +67,8 @@ SELECT * from logs LIMIT 10;
 
 Результаты:
 
-![Результаты выполнения SQL-команд](images/sql-check.png)
+![Снимок экрана от 2024-07-05 22-55-18](https://github.com/user-attachments/assets/7db0db4f-a513-4ab8-b9aa-26f8dba7cbb4)
+
 
 
 ## Задача 4  - проверка Интернет-ресурса
@@ -79,6 +80,8 @@ _P.S. При большом числе подключений приложени
 Результаты проверки приложения с использованием сканера `https://check-host.net/check-http`
 
 ![Проверка сайта](https://github.com/user-attachments/assets/453f2f6e-ca43-4ccb-a5d5-abfd253c285d)
+
+![Снимок экрана от 2024-07-17 13-56-31](https://github.com/user-attachments/assets/db62908a-3e2c-4d6d-9465-f34a73f8bbdc)
 
 
 
